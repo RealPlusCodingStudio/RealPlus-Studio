@@ -7,7 +7,7 @@
 Hubo un estudio. Tenía nombre, tenía símbolo, tenía filosofía.
 Ya no está.
 
-Lo que quedó — la forma de trabajar, el criterio, la obsesión por entregar cosas que funcionen — encontró una forma nueva. Más cruda. Menos pulida. Más honesta.
+Lo que quedó — la forma de trabajar, el criterio, la obsesión por entregar cosas que funcionen — encontró una forma nueva. Más limpia. Mas pulida. Más honesta.
 
 Eso es **STRΔY Labs**.
 
