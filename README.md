@@ -1,49 +1,40 @@
-# ℝ⁺ RealPlus Studio — Desarrollo Web con IA
+# STRΔY Labs
 
-> **Llevamos tu negocio al eje positivo.** 🚀
-> Desarrollo web de alto rendimiento, micro-SaaS y agentes de IA autónomos con velocidad récord gracias a la metodología *Vibe Coding*.
-
-[Ver Web en Vivo](https://realpluscodingstudio.github.io/RealPlus-Studio/)
+> *Algo terminó. Algo comenzó. No es lo mismo.*
 
 ---
 
-## ☀ Filosofía ℝ⁺
-En matemáticas, **ℝ⁺** representa los números reales positivos: el espacio donde todo tiene valor, dirección y sentido. En RealPlus Studio, no solo construimos sitios web; construimos **motores de crecimiento**. 
+Hubo un estudio. Tenía nombre, tenía símbolo, tenía filosofía.
+Ya no está.
 
-Combinamos el criterio humano con la potencia de los modelos de lenguaje más avanzados (Claude 3.5 Sonnet) para entregar resultados en días, no en meses.
+Lo que quedó — la forma de trabajar, el criterio, la obsesión por entregar cosas que funcionen — encontró una forma nueva. Más cruda. Menos pulida. Más honesta.
 
-## 🛠 Lo que construimos
-*   **Landing Pages de Alta Conversión:** Diseño orientado a CRO y psicología de ventas.
-*   **Micro-SaaS Personalizados:** Herramientas específicas para resolver problemas de nicho y generar ingresos recurrentes.
-*   **Integración de Agentes IA:** Automatización de procesos, atención al cliente 24/7 y pipelines de datos inteligentes.
-
-## ⚡ Metodología: Vibe Coding
-Nuestra ventaja competitiva radica en el flujo de trabajo **Vibe Coding** (VS Code + Claude).
-- **Iteraciones ultrarrápidas:** Feedback convertido en código ejecutable en minutos.
-- **Código limpio y escalable:** IA como copiloto permanente bajo supervisión experta.
-- **Sin burocracia:** Comunicación directa con el desarrollador.
-
-## 💻 Stack Tecnológico
-- **Frontend:** React / Next.js
-- **Backend & APIs:** Node / Python
-- **IA:** Anthropic (Claude), v0, Gemini, entre otros mas...
-- **Deploy:** github (gratis), si gusta incluir un dominio personalizado, se añadirian costos extra.
-
-## 📊 Comparativa de Entrega
-
-| Proveedor | Tiempo Estimado |
-| :--- | :--- |
-| **RealPlus Studio** | **3-7 días** |
-| Freelancer Tradicional | 2-4 semanas |
-| Agencia Tradicional | 6-12 semanas |
+Eso es **STRΔY Labs**.
 
 ---
 
-## 🤝 Contacto
-¿Listo para que tu código no duerma mientras tú sí?
-- **Discord:** `realplus_studio`
-- **Email:** [realplus.studios@outlook.es](mailto:realplus.studios@outlook.es)
-- **Web:** [realpluscodingstudio.github.io/RealPlus-Studio/](https://realpluscodingstudio.github.io/RealPlus-Studio/)
+## Qué construimos
+
+- **Webs y landing pages** que convierten, no que impresionan en Dribbble
+- **Micro-SaaS** de nicho, arquitectura limpia, costes mínimos
+- **Agentes IA autónomos** que automatizan lo que no debería hacerse a mano
+
+Todo con IA como palanca. Todo revisado por humanos. Todo entregado.
 
 ---
-*© 2025 RealPlus Studio. Llevando negocios al eje ℝ⁺.*
+
+## Cómo operamos
+
+Sin metodologías de agencia. Sin cadenas de mando. Sin ruido.
+Un laboratorio pequeño que construye cosas reales para gente real.
+
+---
+
+## Contacto
+
+- Discord: [discord.gg/erWT2w9T](https://discord.gg/erWT2w9T)
+- Email: realplus.studios@outlook.es
+
+---
+
+*STRΔY Labs — 2025*
